@@ -4,7 +4,7 @@
 This project is a **multilingual Telegram bot** designed for a web agency to **automate client inquiries**, provide fast responses, and **streamline data collection**.  
 The bot supports **English, Hebrew, and Russian**, and integrates with **Google Sheets API** to store and manage collected data.
 
-![Bot Example](images/screenshot.jpg.png)
+![Bot Example](screenshot.jpg)
 
 ---
 
